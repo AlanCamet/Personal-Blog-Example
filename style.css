@@ -12,6 +12,7 @@ body{
 .nav{
     color: goldenrod;
     font-size: 25px;
+    text-decoration: none;
 }
 
 .tart{
@@ -41,4 +42,10 @@ img{
     color: red;
     text-decoration: none;
     font-size: 20px;
+}
+
+#Titulo{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
 }
