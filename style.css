@@ -31,7 +31,7 @@ body{
 .sart{
     font-size: 25px;
     color: blueviolet;
-    text-align: end;
+    text-align: center;
 }
 
 p{
@@ -42,7 +42,11 @@ p{
 }
 
 img{
-    border-image: auto;
+    margin: 40px; 
+    border: solid 5px goldenrod;
+    padding: 5px;
+    width: 400px;
+    height: 400px;
 }
 
 .link{
